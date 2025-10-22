@@ -1,0 +1,4 @@
+ID      Name      Type     Hours    Salary       Tax       Net
+12334      boss         3        60     30000      1500     28500
+5498      atom         1        50     50000      2500     47500
+5564       mew         2        90     63000      3150     59850
